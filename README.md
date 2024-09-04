@@ -1,5 +1,5 @@
 # Applied AI Capstone Project
-By Kwok Shi Ming Jasmine, Supervised by Dr. Adela Sau Mui LAU <br />
+By Kwok Shi Ming Jasmine, Supervised by Dr. Adela Lau <br />
 May, 2024
 
 ## Abstract
@@ -20,7 +20,7 @@ educational environment. The findings suggest that blockchain technology can pot
 revolutionize educational practices by providing a more personalized, secure, and efficient 
 learning experience. <br />
 
-[Academic Paper](Report.pdf) <br />
+[Report](Report.pdf) <br />
 [Presentation Slides](Presentation.pdf) <br />
 [Demo Video](Demo.mp4) <br />
 
