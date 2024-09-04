@@ -2,8 +2,9 @@
 By Kwok Shi Ming Jasmine, Supervised by Dr. Adela Sau Mui LAU <br />
 May, 2024
 
+[Academic Paper](Report.pdf) <br />
 [Presentation Slides](Presentation.pdf) <br />
-[Report](Report.pdf) <br />
+[Demo Video](Demo.mp4) <br />
 
 ## System Versions
 Python 3.11.4 <br />
