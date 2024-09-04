@@ -1,10 +1,9 @@
-# Capstone Project： Directed Studies in Applied AI
-## By Kwok Shi Ming Jasmine
-## Supervised by Dr. Adela Sau Mui LAU
-### May, 2024
+# Applied AI Capstone Project
+By Kwok Shi Ming Jasmine, Supervised by Dr. Adela Sau Mui LAU <br />
+May, 2024
 
-[a relative link](Presentation.pdf) <br />
-[a relative link](Report.pdf) <br />
+[Presentation Slides](Presentation.pdf) <br />
+[Report](Report.pdf) <br />
 
 ## System Versions
 Python 3.11.4 <br />
