@@ -25,9 +25,9 @@ learning experience. <br />
 [Demo Video](Demo.mp4) <br />
 
 ## Development Environment Specifications
-Python 3.11.4 <br />
-go-ipfs version: 0.7.0 Repo version: 10 <br />
 System version: amd64/windows <br />
+Python version: 3.11.4 <br />
+go-ipfs version: 0.7.0  Repo version: 10 <br />
 Golang version: go1.14.4 <br />
 
 ## Execution Steps
