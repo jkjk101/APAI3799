@@ -33,6 +33,7 @@ Golang version: go1.14.4 <br />
 
 ## Execution Steps
 > cd go-ipfs_v0.7.0/go-ipfs
+> 
 > ipfs daemon
 >
 > python BlockchainAPI.py
